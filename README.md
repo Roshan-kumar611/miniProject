@@ -40,8 +40,17 @@ cd C:\Users\rosha\OneDrive\Desktop\miniProject\miniProject\backend
 ..\..\venv\Scripts\activate
 ## 3.Start backend server:
 uvicorn server:app --reload --host 0.0.0.0 --port 8000
-## Backend will run at:
-## http://localhost:8000
+## Backend will run at: http://localhost:8000
+
+## 🌐 Frontend Setup (React)
+
+## 1.Open a new terminal and navigate to frontend folder:
+cd C:\Users\rosha\OneDrive\Desktop\miniProject\miniProject\frontend
+## 2.Install dependencies (first time only):
+npm install
+## 3.Start frontend:
+npm start
+## Frontend will run at:http://localhost:3000
 
 
 
