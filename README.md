@@ -32,16 +32,16 @@ Once a route is selected, this page shows the live progress of the trip with rea
 FleetWise is an efficient Smart Fleet Management System that combines real-time vehicle tracking, smart route planning, and cost optimization in a modern web platform. It improves fleet visibility, reduces operational expenses, and simplifies route decision-making. This project demonstrates practical full-stack development skills and offers a scalable solution for real-world fleet management needs.
 
 ## ▶️ How to Run the Project Locally
-# 📂 Backend Setup (FastAPI)
+## 📂 Backend Setup (FastAPI)
 
-# 1.Open terminal and navigate to backend folder:
+## 1.Open terminal and navigate to backend folder:
 cd C:\Users\rosha\OneDrive\Desktop\miniProject\miniProject\backend
-# 2.Activate virtual environment:
+## 2.Activate virtual environment:
 ..\..\venv\Scripts\activate
-# 3.Start backend server:
+## 3.Start backend server:
 uvicorn server:app --reload --host 0.0.0.0 --port 8000
 ## Backend will run at:
-# http://localhost:8000
+## http://localhost:8000
 
 
 
