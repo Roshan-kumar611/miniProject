@@ -50,7 +50,7 @@ cd C:\Users\rosha\OneDrive\Desktop\miniProject\miniProject\frontend
 npm install
 ## 3.Start frontend:
 npm start
-## Frontend will run at:http://localhost:3000
+## Frontend will run at: http://localhost:3000
 
 
 
